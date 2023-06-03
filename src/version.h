@@ -22,8 +22,6 @@
 #define PLUGIN_INTRODUCTION "让玩家加入信息更好看"
 #define PLUGIN_AUTHOR "FTS427"
 
-// The version of your plugin. If you do not know how to set it, please refer
-// to https://semver.org/ .
 #define PLUGIN_VERSION_MAJOR 1
 #define PLUGIN_VERSION_MINOR 0
 #define PLUGIN_VERSION_REVISION 0
